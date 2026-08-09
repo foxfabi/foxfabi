@@ -1,4 +1,4 @@
-## Hi there, I'm fab °!°
+## I'm fab °!°
 
 > Focused on building thoughtful software solutions, modular system architectures, and human-centric developer tools.
 
