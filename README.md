@@ -1,4 +1,4 @@
-## I'm f°} fabforge – Fabian Dennler
+## I'm {fab°}
 
 > Focused on building thoughtful software solutions, modular system architectures, and human-centric developer tools.
 
